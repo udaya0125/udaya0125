@@ -53,7 +53,7 @@ Tech: React
 ## Contact
 - GitHub: https://github.com/udaya0125  
 - Email: adhikariudaya736@gmail.com  
-- Portfolio: Coming soon
+- Portfolio: https://www.udaya-adhikari.com.np/
 
 ---
 
