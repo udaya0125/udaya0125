@@ -113,6 +113,19 @@ const udaya: Developer = {
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Room Rental Platform
+**Full-stack rental listing & booking app**
+
+
+
+---
+
 ## 💡 What I Bring to the Table
 
 ```
