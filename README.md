@@ -7,7 +7,7 @@
 *Crafting scalable web applications with clean architecture and purposeful design.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-udaya--adhikari.com.np-0f172a?style=flat-square&logo=safari&logoColor=white)](https://www.udaya-adhikari.com.np/)
-[![GitHub](https://img.shields.io/badge/GitHub-udayaadhikari-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/udayaadhikari)
+[![GitHub](https://img.shields.io/badge/GitHub-udaya0125-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/udaya0125)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
@@ -84,11 +84,11 @@ I approach development with a user-first mindset. Performance, responsiveness, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayaadhikari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaya0125&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayaadhikari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaya0125&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udayaadhikari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaya0125&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0)
 
 </div>
 
@@ -99,7 +99,7 @@ I approach development with a user-first mindset. Performance, responsiveness, a
 I'm open to freelance projects, collaborative work, and professional opportunities.
 
 - **Portfolio:** [udaya-adhikari.com.np](https://www.udaya-adhikari.com.np/)
-- **GitHub:** [github.com/udayaadhikari](https://github.com/udayaadhikari)
+- **GitHub:** [github.com/udaya0125](https://github.com/udaya0125)
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
 - **Email:** your@email.com
 
