@@ -1,151 +1,110 @@
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1f2d,100:1a3a4a&height=220&section=header&text=Udaya%20Adhikari&fontSize=60&fontColor=38bdf8&fontAlignY=40&desc=Full-Stack%20Web%20Developer%20%7C%20React%20%C2%B7%20Laravel%20%C2%B7%20MySQL&descAlignY=62&descColor=94a3b8&animation=fadeIn" />
-
-<br/>
-
-<!-- Badges Row -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-udaya--adhikari.com.np-38bdf8?style=for-the-badge&labelColor=0d1f2d)](https://www.udaya-adhikari.com.np/)
-[![Email](https://img.shields.io/badge/📧_Email-adhikariudaya736-38bdf8?style=for-the-badge&labelColor=0d1f2d)](mailto:adhikariudaya736@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-udaya0125-38bdf8?style=for-the-badge&logo=github&labelColor=0d1f2d)](https://github.com/udaya0125)
-[![Location](https://img.shields.io/badge/📍_Pokhara--18-Nepal-38bdf8?style=for-the-badge&labelColor=0d1f2d)]()
-[![Open to Work](https://img.shields.io/badge/💼_Status-Open%20to%20Work-22c55e?style=for-the-badge&labelColor=0d1f2d)]()
+# Udaya Adhikari
+
+**Full Stack Developer**
+
+*Crafting scalable web applications with clean architecture and purposeful design.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-udaya--adhikari.com.np-0f172a?style=flat-square&logo=safari&logoColor=white)](https://www.udaya-adhikari.com.np/)
+[![GitHub](https://img.shields.io/badge/GitHub-udayaadhikari-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/udayaadhikari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
 
-<br/>
+---
+
+## About
+
+I'm a full stack developer focused on building responsive, well-structured web applications that balance clean UI with solid backend logic. I work across the entire stack — from architecting Laravel APIs to composing React interfaces with Tailwind CSS — with an emphasis on code that is maintainable, readable, and built to last.
+
+I take ownership of projects end-to-end: database design, API development, frontend integration, authentication flows, and admin systems. I care deeply about the quality of what I ship.
 
 ---
 
-## `$ whoami`
+## Tech Stack
 
-```typescript
-const udaya: Developer = {
-  name:        "Udaya Adhikari",
-  title:       "Full-Stack Web Developer",
-  location:    "Pokhara-18, Gandaki Province, Nepal 🇳🇵",
-  experience:  "1+ year building production web applications",
+**Frontend**
 
-  currentFocus: [
-    "Scalable REST APIs with Laravel",
-    "Component-driven UIs with React + Tailwind",
-    "Clean database design with MySQL",
-  ],
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=css3&logoColor=white)
 
-  workStyle:   ["Clean Code", "RESTful Design", "Mobile-First UI"],
-  available:   true, // Actively seeking freelance & full-time roles
-  contact:     "adhikariudaya736@gmail.com",
-};
-```
+**Backend**
 
-> I turn ideas into real-world web applications — from designing database schemas and building secure Laravel APIs, to crafting responsive, pixel-perfect React interfaces. I believe great software is built on clean architecture and clear thinking.
+![Laravel](https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat-square&logo=mysql&logoColor=white)
 
-<br/>
+**Tools & Ecosystem**
+
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Laravel Breeze](https://img.shields.io/badge/Laravel_Breeze-ff2d20?style=flat-square&logo=laravel&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0f172a?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
-## 📊 GitHub Activity Snapshot
+## Currently Working On
 
-<div align="center">
-
-| 🔥 Contributions (Last Year) | 📁 Repositories | 💻 Commit Rate | 🌏 Location |
-|:---:|:---:|:---:|:---:|
-| **673** | **35+** | **86%** | Pokhara-18, Nepal |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=udaya0125&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaya0125&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=udaya0125&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1e3a4a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=udaya0125&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&area_color=1e3a4a&hide_border=true" />
-</div>
-
-<br/>
+- Strengthening full-stack architecture patterns across React + Laravel projects
+- Building modular, reusable component systems with Tailwind CSS
+- Improving API design and backend service structure for scalability
+- Developing polished admin dashboards with robust access control
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Focus Areas
 
-**Frontend Development**
-
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwind-css&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-**Backend Development**
-
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=flat-square&logo=laravel&logoColor=FF2D20)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=8892BF)
-![REST API](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=38bdf8)
-![JWT Auth](https://img.shields.io/badge/JWT_Auth-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Schema Design](https://img.shields.io/badge/Schema_Design-0d1117?style=flat-square&logo=databricks&logoColor=38bdf8)
-
-**Dev Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=FF6C37)
-![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)
-![Composer](https://img.shields.io/badge/Composer-0d1117?style=flat-square&logo=composer&logoColor=white)
-
-<br/>
-
----
-
-## 💡 What I Bring to the Table
-
-```
-✔  Full-stack ownership        — I take features from wireframe to deployed API
-✔  Clean, readable code        — Written for humans first, machines second
-✔  RESTful API design          — Structured, versioned, documented endpoints
-✔  Responsive UI               — Mobile-first with Tailwind CSS
-✔  Relational DB thinking      — Normalized schemas, efficient queries
-✔  673 contributions/year      — I ship consistently, not just occasionally
-✔  35+ repositories            — Broad hands-on experience across project types
-```
-
-<br/>
-
----
-
-## 📬 Let's Work Together
-
-I'm actively looking for **freelance projects** and **full-time opportunities**. Whether you're a startup that needs a reliable full-stack developer or an agency with client work — let's talk.
-
-<div align="center">
-
-| | |
+| Domain | Detail |
 |---|---|
-| 📍 **Location** | Pokhara-18, Gandaki Province, Nepal |
-| 📧 **Email** | adhikariudaya736@gmail.com |
-| 🌐 **Portfolio** | [udaya-adhikari.com.np](https://www.udaya-adhikari.com.np/) |
-| 💻 **GitHub** | [github.com/udaya0125](https://github.com/udaya0125) |
-| 💼 **Status** | ✅ Available for hire |
+| **React Frontend** | Component-driven UIs, state management, API-connected views |
+| **Laravel Backend** | RESTful APIs, service architecture, Eloquent ORM |
+| **Tailwind UI** | Responsive layouts, utility-first design systems |
+| **Admin Dashboards** | Data-rich interfaces, role-based access, clean UX |
+| **Authentication Systems** | Session handling, token auth, Laravel Breeze integration |
+| **CRUD Systems** | Full lifecycle data management with clean controller logic |
+
+---
+
+## Philosophy
+
+> *Write code that your future self — and your teammates — will thank you for.*
+
+I believe good software is built on three pillars: **clarity**, **structure**, and **intent**. Clean code is not a luxury — it is the baseline. Well-organized systems reduce friction, accelerate iteration, and produce better products. Every project I touch, I aim to leave in a state that is easier to understand, extend, and maintain than when I found it.
+
+I approach development with a user-first mindset. Performance, responsiveness, and intuitive interfaces are not afterthoughts — they are requirements.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udayaadhikari&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=3b82f6&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udayaadhikari&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&langs_count=6)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udayaadhikari&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3b82f6&fire=3b82f6&currStreakLabel=e2e8f0&sideLabels=94a3b8&dates=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0)
 
 </div>
 
-<br/>
+---
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a4a,50:0d1f2d,100:000000&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=38bdf8&fontAlignY=65" />
+## Connect
+
+I'm open to freelance projects, collaborative work, and professional opportunities.
+
+- **Portfolio:** [udaya-adhikari.com.np](https://www.udaya-adhikari.com.np/)
+- **GitHub:** [github.com/udayaadhikari](https://github.com/udayaadhikari)
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+- **Email:** your@email.com
+
+---
+
+<div align="center">
+<sub>Building with intention. Shipping with confidence.</sub>
+</div>
