@@ -105,6 +105,4 @@ I'm open to freelance projects, collaborative work, and professional opportuniti
 
 ---
 
-<div align="center">
-<sub>Building with intention. Shipping with confidence.</sub>
-</div>
+
