@@ -8,8 +8,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-udaya--adhikari.com.np-0f172a?style=flat-square&logo=safari&logoColor=white)](https://www.udaya-adhikari.com.np/)
 [![GitHub](https://img.shields.io/badge/GitHub-udaya0125-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/udaya0125)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udaya-adhikari-ab5397240/)
+[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-0f172a?style=flat-square&logo=gmail&logoColor=white)](mailto:adhikariudaya736@gmail.com)
 
 </div>
 
@@ -100,8 +100,8 @@ I'm open to freelance projects, collaborative work, and professional opportuniti
 
 - **Portfolio:** [udaya-adhikari.com.np](https://www.udaya-adhikari.com.np/)
 - **GitHub:** [github.com/udaya0125](https://github.com/udaya0125)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-- **Email:** your@email.com
+- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/udaya-adhikari-ab5397240/)
+- **Email:** adhikariudaya736@gmail.com
 
 ---
 
