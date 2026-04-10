@@ -15,7 +15,7 @@
 
 ---
 
-## About Me
+## About
 
 I'm a full stack developer focused on building responsive, well-structured web applications that balance clean UI with solid backend logic. I work across the entire stack — from architecting Laravel APIs to composing React interfaces with Tailwind CSS — with an emphasis on code that is maintainable, readable, and built to last.
 
