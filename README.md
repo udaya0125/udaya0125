@@ -67,9 +67,6 @@ I care about the quality of what I ship: clean architecture, intuitive interface
 
 ---
 
-## Currently Working On
----
-
 ## Philosophy
 
 > *Write code that your future self — and your teammates — will thank you for.*
