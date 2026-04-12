@@ -20,7 +20,7 @@
 
 ---
 
-## About Me
+## About
 
 
 I'm a full stack developer who owns projects end-to-end — from database schema to pixel-level UI. I work across Laravel APIs, React frontends, and Tailwind design systems, with a consistent focus on code that is maintainable, readable, and built to last.
