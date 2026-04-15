@@ -34,7 +34,6 @@
 
 <img src="https://img.shields.io/badge/⚡_Status-Open%20to%20Freelance%20%26%20Collaboration-1D9E75?style=flat-square"/>
 &nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=udaya0125&style=flat-square&color=378ADD&label=Profile+Views"/>
 
 <br/><br/>
 
