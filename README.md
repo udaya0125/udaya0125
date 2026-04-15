@@ -315,6 +315,6 @@ I care deeply about the quality of what I ship. Clean architecture, intuitive in
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:185FA5,100:0d1117&height=80&section=footer"/>
 
-<sub>Designed & built with intention &nbsp;·&nbsp; Kathmandu, Nepal &nbsp;·&nbsp; <a href="https://www.udaya-adhikari.com.np/">udaya-adhikari.com.np</a></sub>
+<sub>Designed & built with intention &nbsp;·&nbsp; Pokhara, Nepal &nbsp;·&nbsp; <a href="https://www.udaya-adhikari.com.np/">udaya-adhikari.com.np</a></sub>
 
 </div>
