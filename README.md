@@ -50,7 +50,7 @@
 const udaya: Developer = {
   name:        "Udaya Adhikari",
   role:        "Full Stack Developer",
-  location:    "Kathmandu, Nepal 🇳🇵",
+  location:    "Pokhara, Nepal 🇳🇵",
   stack:       ["Laravel", "React", "Tailwind CSS", "MySQL", "PHP"],
   focus:       ["Scalable APIs", "Component-driven UI", "Admin Dashboards"],
   philosophy:  "Write code your future self will thank you for.",
