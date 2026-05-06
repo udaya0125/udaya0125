@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+# <!-- Header Banner -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:185FA5,100:0d1117&height=120&section=header&text=Udaya%20Adhikari&fontSize=42&fontColor=e2e8f0&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=16&descAlignY=85&descColor=94a3b8"/>
@@ -252,6 +252,14 @@ I care deeply about the quality of what I ship. Clean architecture, intuitive in
 
 <div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=udaya0125&style=for-the-badge&color=185FA5&label=PROFILE+VIEWS"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/udaya0125?style=for-the-badge&color=185FA5&logo=github&logoColor=white&label=FOLLOWERS"/>
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/udaya0125&query=public_repos&style=for-the-badge&color=185FA5&logo=github&logoColor=white&label=REPOS"/>
+
+<br/><br/>
+
 <a href="https://github.com/udaya0125">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=udaya0125&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e2e8f0&text_color=94a3b8&icon_color=378ADD&include_all_commits=true&count_private=true&rank_icon=github"/>
   &nbsp;
@@ -315,8 +323,5 @@ I care deeply about the quality of what I ship. Clean architecture, intuitive in
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:185FA5,100:0d1117&height=80&section=footer"/>
 
 <sub>Designed & built with intention &nbsp;·&nbsp; Pokhara, Nepal &nbsp;·&nbsp; <a href="https://www.udaya-adhikari.com.np/">udaya-adhikari.com.np</a></sub>
-
-
-
 
 </div>
