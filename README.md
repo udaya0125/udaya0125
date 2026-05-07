@@ -122,8 +122,6 @@ I care deeply about the quality of what I ship. Clean architecture, intuitive in
 
 ---
 
-<!-- Focus Areas -->
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━%20FOCUS%20AREAS%20━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" width="100%"/>
 
 <br/>
 
