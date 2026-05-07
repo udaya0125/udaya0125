@@ -192,39 +192,6 @@ I care deeply about the quality of what I ship. Clean architecture, intuitive in
 
 ---
 
-<!-- Connect -->
-<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━%20LET'S%20CONNECT%20━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0d1117?style=flat-square" width="100%"/>
-
-<br/>
-
-<div align="center">
-
-*I'm open to freelance projects, collaborative work, and professional opportunities.*
-
-<br/>
-
-<a href="https://www.udaya-adhikari.com.np/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20My%20Site-185FA5?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://github.com/udaya0125">
-  <img src="https://img.shields.io/badge/💻_GitHub-See%20My%20Code-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/udaya-adhikari-ab5397240/">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:adhikariudaya736@gmail.com">
-  <img src="https://img.shields.io/badge/✉️_Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
 <!-- Footer -->
 <div align="center">
 
